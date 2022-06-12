@@ -1,4 +1,8 @@
 # Customer_Segmentation
 
 
-In large business firms, the major aspect to deal with is a large amount of data. One such aspect is  "<strong>feedback from the customer</strong>". It uses Unsupervised Learning for <strong>Customer Segmentation</strong> and also performs <strong>Topic Modeling</strong>.
+In large business firms, the major aspect to deal with is a large number of feedback from the customers.
+In this I have used the Snapchat feedback dataset.
+The objective was to categorize similar types of feedback given by the Snapchat users.
+I have to build a clustering model to capture similar types of feedback.
+I have also applied Topic Modeling.
